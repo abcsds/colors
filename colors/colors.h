@@ -15,6 +15,11 @@
 #include <vector>
 #include <ctime>
 #include <cctype>
+#include <OpenGL/gl.h>
+#include <GLUT/glut.h>
+
+const int WINDOW_WIDTH = 500;
+const int WINDOW_HEIGHT = 500;
 
 using namespace std;
 class colors {
